@@ -1,2 +1,4 @@
 # derekapricorn
-This is the workspace for my future web dev projects. \nExpect more to come! \nPS: Happy Halloween :p
+This is the workspace for my future web dev projects. 
+Expect more to come! 
+PS: Happy Halloween :p
