@@ -4,7 +4,7 @@ selected movies and plays trailers for users.
 
 ## Install
 - To install, simply unzip the compressed package entitled **"movie_trailer_website.zip"**
-- Alternatively, you can fork the branch [here]() and clone the branch from GitHub using the command: `git clone https://github.com/YOUR_USERNAME/movie_trailer_website`. Make sure you replace the `YOUR_USERNAME` with your username.
+- Alternatively, you can fork the branch [here](https://github.com/derekapricorn/derekapricorn/tree/master/movie_trailer_website) and clone the branch from GitHub using the command: `git clone https://github.com/YOUR_USERNAME/movie_trailer_website`. Make sure you replace the `YOUR_USERNAME` with your username.
 
 ## Qucik start
 Make sure you are connected to Internet. To run the code you need to have Python installed. 
