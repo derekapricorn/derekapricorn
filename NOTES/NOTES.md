@@ -90,6 +90,7 @@ Sometimes need to draw a graph for simply illustrate.
     - breakpoints are decided based on the content by trial and error.
     - flex containers
         - `display: flex` and `flex-wrap: wrap`
+    - flex item
 
 
 
